@@ -1,2 +1,2 @@
-# MagicMous3.github.io
-pokemon of the week that everyone can draw if they want hello
+# Pokemon of the week official website by jmcu
+Pokemon of the week that everyone can draw if they want to
